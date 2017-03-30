@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        //
         // DECLARANDO BOTONES
         btncategorias= (ImageButton)findViewById(R.id.btnCategory);
         btnproductos= (ImageButton)findViewById(R.id.btnProductos);
