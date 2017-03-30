@@ -49,6 +49,7 @@ public class CategoriasActivity extends AppCompatActivity {
 
             startActivity(new Intent(getApplicationContext(),Pop.class));
         }
+        //se la come arcique
     }
 
 
